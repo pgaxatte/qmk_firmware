@@ -1,5 +1,7 @@
 # ErgoDone DonPedro's configuration
 
+> REMAINDER, to build:
+> make ergodone:pedro
 > REMAINDER, to flash:
 > 1. Put in flash mode (2 top right keys of left hand held down while plugging USB)
 > 2. ~/soft/tkg-toolkit/linux/bin/hid_bootloader_cli -mmcu=atmega32u4 ~/Projects/Perso/qmk_firmware/.build/ergodone_pedro.hex
